@@ -51,7 +51,7 @@ function App() {
   }
 
   const Stack = createNativeStackNavigator();
-  //new test fork
+  //new test collaborator
 
   return (
     <NavigationContainer>
